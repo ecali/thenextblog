@@ -12,8 +12,7 @@ export const Featured = () => {
                     <Image className={styles.image} src={'/p1.jpeg'} alt={'post image'} fill/>
                 </div>
                 <div className={styles.textContainer}>
-                    <h1 className={styles.postTitle}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-                        posuere ipsum non libero porttitor fermentum. Nullam a tincidunt sapien, at porta enim.</h1>
+                    <h1 className={styles.postTitle}>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
                     <p className={styles.postDesc}>Suspendisse tincidunt dignissim interdum. Vestibulum at nibh
                         ultrices, commodo erat eget, consectetur magna. Ut at condimentum lacus, nec facilisis ligula.
                         Aenean tincidunt sem non volutpat fermentum. Suspendisse sed leo ac eros aliquet convallis sed
